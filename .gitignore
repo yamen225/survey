@@ -1,4 +1,2 @@
-../.survey/
-*/.pytest_cache/*
-__pycache__
-.idea
+*.sqlite3
+.survey
