@@ -1,2 +1,4 @@
 *.sqlite3
 .survey
+.idea
+*/__pycache__/*
